@@ -1,5 +1,5 @@
 body {
-  background: rgb(231, 149, 41);
+  background: chocolate;
 }
 .birthday {
   position: absolute;
@@ -10,13 +10,16 @@ body {
   text-align: center;
   font-size: 10em;
   font-family: 'Oswald', sans-serif;
-  color:black;
+  color:antiquewhite;
   text-shadow: 0px 3px rgba(0, 0, 0, 0.10);
 }
 a {
   text-decoration: none;
-  color: black;
+  color: aliceblue;
   font-family:  monospace;
+}
+a:hover {
+  color: rgb(32, 32, 32);
 }
 .birthday span {
   display: inline-block;
